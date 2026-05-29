@@ -1,0 +1,28 @@
+# Các file đã biên dịch của Python (bộ nhớ tạm)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cấu hình của các trình soạn thảo mã (VS Code, IntelliJ, Vim)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Các file rác do hệ điều hành (Windows/macOS) tự sinh ra
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Môi trường ảo Python và biến môi trường chứa thông tin nhạy cảm
+venv/
+env/
+.env
+
+# Nhật ký hệ thống và cơ sở dữ liệu
+# *.log
+# *.sqlite3
